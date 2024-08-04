@@ -7,7 +7,7 @@ My area of Interest includes: Network security, open-source Intelligence, Web Ap
 I am skilled in tools and technologies such as Wireshark, Nmap,and Nessus, which enable me to effectively analyze network traffic, assess vulnerabilities, and develop tailored security solutions.<br> 
 I was an Intern, in the <a href="https://www.cdac.in/index.aspx?id=CH"> C-DAC Centre @ Chennai </a> during July 2023, under the Mentorship of <a href="https://www.linkedin.com/in/prabha-sathesh/">Ms V A Prabha </a>, performing automation on openstack to eliminate errors that can occur from repetitive manual operations and free up significant IT time.<br> 
 I create <a href="https://github.com/NAVEEN-S-KUMAR"> Projects </a> occasionally, to test my skills and to enhance them.<br>
-Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
+Here's my <a href="Naveen_Kumar_S_Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
 <span id="a">root@Naveen Kumar S_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
 Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/naveen-kumar-sugumar/">Linkedin</a> <br> # <a href="https://instagram.com/_n_a_v_i_n_03?igshid=NjIwNzIyMDk2Mg==">Instagram</a><br> # <a href="https://twitter.com/na_vin_09">Twitter</a><br>
 Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:naveenkumarsugumar@protonmail.com"> naveenkumarsugumar@protonmail.com</a><br>
