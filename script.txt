@@ -5,10 +5,9 @@ Hello, Friend! Myself, Naveen Kumar S.<br><!-- laglaglaglaglaglaglaglaglaglaglag
 I'm an Aspiring Cybersecurity Enthusiast who is passionate about safeguarding digital assets and reducing security threats. I am enthusiastic to contribute to the field of information security since I have a good foundation in cybersecurity concepts and a constant drive to stay up to date on the latest threats and technology.<br>
 My area of Interest includes: Network security, open-source Intelligence, Web Application and Mobile Application security and Reverse Engineering.<br>
 I am skilled in tools and technologies such as Wireshark, Nmap,and Nessus, which enable me to effectively analyze network traffic, assess vulnerabilities, and develop tailored security solutions.<br> 
-I was an Intern, in the <a href="https://www.cdac.in/index.aspx?id=CH"> C-DAC Centre @ Chennai </a> during July 2023, under the Mentorship of <a href="https://www.linkedin.com/in/prabha-sathesh/">Ms V A Prabha </a>, performing automation on openstack to eliminate errors that can occur from repetitive manual operations and free up significant IT time.<br> 
+I was an Intern, in the <a href="https://www.linkedin.com/company/necuritysoln/posts/?feedView=all"> Necurity Solutions Network Security Pvt Ltd @ Chennai </a> during July 2024. During my internship, I assisted with vulnerability assessments and penetration testing, conducted phishing simulation campaigns, and monitored ransomware activity on the dark web using the Tor browser. I also generated detailed reports and provided recommendations for improvement.<br> 
 I create <a href="https://github.com/NAVEEN-S-KUMAR"> Projects </a> occasionally, to test my skills and to enhance them.<br>
-Here's my <a href="Naveen_Kumar_S_Resume
-.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
+Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
 <span id="a">root@Naveen Kumar S_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
 Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/naveen-kumar-sugumar/">Linkedin</a> <br> # <a href="https://instagram.com/_n_a_v_i_n_03?igshid=NjIwNzIyMDk2Mg==">Instagram</a><br> # <a href="https://twitter.com/na_vin_09">Twitter</a><br>
 Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:naveenkumarsugumar@protonmail.com"> naveenkumarsugumar@protonmail.com</a><br>
