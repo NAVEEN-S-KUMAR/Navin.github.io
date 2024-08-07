@@ -1,4 +1,4 @@
-<span id="a">root@Naveen Kumar S_</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->
+ <span id="a">root@Naveen Kumar S_</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->
 <span id="a">root@Naveen Kumar S_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/>
 
 Hello, Friend! Myself, Naveen Kumar S.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
@@ -7,7 +7,7 @@ My area of Interest includes: Network security, open-source Intelligence, Web Ap
 I am skilled in tools and technologies such as Wireshark, Nmap,and Nessus, which enable me to effectively analyze network traffic, assess vulnerabilities, and develop tailored security solutions.<br> 
 I was an Intern, in the <a href="https://www.linkedin.com/company/necuritysoln/posts/?feedView=all"> Necurity Solutions Network Security Pvt Ltd @ Chennai </a> during July 2024. During my internship, I assisted with vulnerability assessments and penetration testing, conducted phishing simulation campaigns, and monitored ransomware activity on the dark web using the Tor browser. I also generated detailed reports and provided recommendations for improvement.<br> 
 I create <a href="https://github.com/NAVEEN-S-KUMAR"> Projects </a> occasionally, to test my skills and to enhance them.<br>
-Here's my <a href="Naveen_Kumar_S_Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
+Here's my <a href="resume/Naveen_Kumar_S_Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
 <span id="a">root@Naveen Kumar S_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
 Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/naveen-kumar-sugumar/">Linkedin</a> <br> # <a href="https://instagram.com/_n_a_v_i_n_03?igshid=NjIwNzIyMDk2Mg==">Instagram</a><br> # <a href="https://twitter.com/na_vin_09">Twitter</a><br>
 Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:naveenkumarsugumar@protonmail.com"> naveenkumarsugumar@protonmail.com</a><br>
